@@ -1,2 +1,3 @@
 # keeper-app
-Created with CodeSandbox
+A clone of the Google Keeper application created in react.js
+
